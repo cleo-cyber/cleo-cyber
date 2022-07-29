@@ -19,7 +19,7 @@
 - LinkedIn: [Cleophas Kadima](https://www.linkedin.com/in/cleophas-kadima/)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cleo-cyber&theme=gotham)](https://git.io/streak-stats) [![Cleophas Kadima](https://github-readme-stats.vercel.app/api?username=cleo-cyber&theme=react)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleo-cyber&langs_count=5)]
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cleo-cyber&theme=gotham)](https://git.io/streak-stats) [![Cleophas Kadima](https://github-readme-stats.vercel.app/api?username=cleo-cyber&theme=react)](https://github.com//github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleo-cyber&langs_count=5)
 
 
 

@@ -11,7 +11,7 @@
 
 
 -   👯 I’m looking to collaborate on interesting tech related projects.
--   🌱 I’m currently learning React, Google Cloud AI and Machine Learning.
+-   🌱 I’m currently learning React and  Google Cloud .
 -   📫 How to reach me: (kadimacleo92@gmail.com)
 -   ⚡ Fun fact: I love blues. During my free time I love to attend dance classes or watch sitcoms
 

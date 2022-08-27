@@ -6,6 +6,7 @@
 👨‍🔬 I am profecient in the following:
 - 📌 Full-Stack web - Flask.
 - 📌 Languages - PHP,Python,JavaScript.
+- 📌 Frameworks - Flask ,Django
 - 📌 Web -HTML/CSS,JavaScript.
 - 📌 Some experience in Docker,AWS.
 

@@ -1,3 +1,4 @@
+
 ### Hi there 👋
 ## 👨 I'm Cleophas Kadima ✨
 
@@ -29,6 +30,6 @@
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cleo-cyber&theme=gotham)](https://git.io/streak-stats) [![Cleophas Kadima](https://github-readme-stats.vercel.app/api?username=cleo-cyber&theme=react)](https://github.com//github-readme-stats)
-
+![](https://komarev.com/ghpvc/?username=cleo-cyber&label=PROFILE+VIEWS)
 
 

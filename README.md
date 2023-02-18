@@ -11,7 +11,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/react-%23092E20.svg?style=for-the-badge&logo=react&logoColor=blue)
+![React](https://img.shields.io/badge/react-%23000.svg?style=for-the-badge&logo=react&logoColor=blue)
 
 
 

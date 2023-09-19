@@ -2,7 +2,7 @@
 ### Hi there 👋
 ## 👨 I'm Cleophas Kadima ✨
 
-> 💻 I am a Software developer from kenya, who enjoys making web applications aimed at making processes easier. I enjoy writing Python, JavaScript and CSS code. I am currently Learning Google Cloud.
+> 💻 I am a Software developer from kenya, who enjoys making web applications aimed at making processes easier. I enjoy writing Python, JavaScript and CSS code.
 
 # 👨‍🔬 Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)

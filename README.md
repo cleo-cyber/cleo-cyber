@@ -22,7 +22,7 @@
 # Interests
 -   👯 I’m looking to collaborate on interesting tech related projects.
 -   📫 How to reach me: (kadimacleo92@gmail.com)
--   ⚡ Fun fact: I love blues. During my free time I love to attend dance classes or watch sitcoms
+-   ⚡ Fun fact: I love blues. During my free time I love to attend dance classes or watch sitcoms.
 
 👨‍🏫 Get to know more about me
 - LinkedIn: [Cleophas Kadima](https://www.linkedin.com/in/cleophas-kadima/)

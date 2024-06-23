@@ -2,7 +2,8 @@
 ### Hi there 👋
 ## 👨 I'm Cleophas Kadima ✨
 
-> 💻 I am a Software developer from kenya, who enjoys making web applications aimed at making processes easier. I enjoy writing Python, JavaScript and CSS code.
+> 💻 I am a Software developer from kenya, who enjoys writing python and JavaScript code.
+> I am also interested in geospatial modeling and earth science.
 
 # 👨‍🔬 Skills.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -20,9 +21,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 # Interests
--   👯 I’m looking to collaborate on interesting tech related projects.
--   📫 How to reach me: (kadimacleo92@gmail.com)
--   ⚡ Fun fact: I love blues. During my free time I love to attend dance classes or watch sitcoms.
+-   👯 I’m looking to collaborate on  AI/ML related projects.
+-  ⚡ Fun fact: I love blues. During my free time I love to attend dance classes or watch sitcoms.
 
 👨‍🏫 Get to know more about me
 - LinkedIn: [Cleophas Kadima](https://www.linkedin.com/in/cleophas-kadima/)
